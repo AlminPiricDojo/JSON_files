@@ -1,0 +1,29 @@
+[
+    {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": "2015",
+        "owners": [
+            "Bob",
+            "Fred",
+            "Sam"
+        ]
+    },
+    {
+        "make": "Jeep",
+        "model": "Wrangler",
+        "year": "2018",
+        "owners": [
+            "Tim",
+            "Sara"
+        ]
+    },
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": "2012",
+        "owners": [
+            "Jane"
+        ]
+    }
+]
