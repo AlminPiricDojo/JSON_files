@@ -1,10 +1,22 @@
 [
 	{
-		"aed": 4.165386,
-		"gbp": 0.836792,
-		"jpy": 128.991617,
-		"php": 58.131628,
-		"sar": 4.253964,
-		"usd": 1.134057
+		"currency": "AED",
+		"rate": 4.165386
+	},
+	{
+		"currency": "GBP",
+		"rate": 0.836792
+	},
+	{
+		"currency": "JPY",
+		"rate": 128.991617
+	},
+	{
+		"currency": "SAR",
+		"rate": 4.253964
+	},
+	{
+		"currency": "USD",
+		"rate": 1.134057
 	}
 ]
