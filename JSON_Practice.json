@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Sam",
+        "age": 32,
+        "location": "New York",
+        "phone": {
+			      "mobile": "212 556 6654",
+			      "home": "212 648 6654"
+        }
+    },
+    {
+        "name": "Mitch",
+        "age": 27,
+        "location": "San Francisco",
+        "phone": {
+			      "mobile": "415 212 3325",
+			      "home": "415 685 4758"
+        }
+    },
+	{
+        "name": "Laura",
+        "age": 25,
+        "location": "Orlando",
+        "phone": {
+			      "mobile": "407 654 1124",
+			      "home": "407 888 5689"
+        }
+    },
+	{
+        "name": "Tina",
+        "age": 29,
+        "location": "Chicago",
+        "phone": {
+			      "mobile": "872 872 5544",
+			      "home": "872 445 6655"
+        }
+    }
+]
